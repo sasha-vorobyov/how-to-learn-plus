@@ -1,0 +1,16 @@
+.cards__item {
+display: flex;
+justify-content: flex-start;
+flex-direction: column;
+width: 240px;
+}
+
+.cards__item:nth-of-type(2) {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.cards__item:nth-of-type(5) {
+  padding-left: 100px;
+  padding-right: 100px;
+}
