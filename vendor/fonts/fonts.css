@@ -1,13 +1,13 @@
 @font-face {
-  src: url(/vendor/fonts/inter/Inter-Regular.woff2) format('woff2'),
-       url(/vendor/fonts/inter/Inter-Regular.woff) format('woff');
+  src: url(./inter/Inter-Regular.woff2) format('woff2'),
+       url(./inter/Inter-Regular.woff) format('woff');
        font-family: 'Inter';
        font-weight: normal;
 }
 
 @font-face {
-  src: url(/vendor/fonts/inter/Inter-SemiBold.woff2) format('woff2'),
-       url(/vendor/fonts/inter/Inter-SemiBold.woff) format('woff');
+  src: url(./inter/Inter-SemiBold.woff2) format('woff2'),
+       url(./inter/Inter-SemiBold.woff) format('woff');
        font-family: 'Inter';
        font-weight: 600;
 }
